@@ -8,7 +8,6 @@
         <version>1.1.0</version>
     </parent>
 
-    <groupId>com.mattunderscore</groupId>
     <artifactId>mattunderscore-build-rules</artifactId>
     <version>1.0.1-SNAPSHOT</version>
 
